@@ -12,9 +12,6 @@ To examine a number of different forecasting techniques to predict future stock 
 
 Download the Dataset needed for running the code from [here](https://drive.google.com/open?id=0B2lCmt16L_r3SUtrTjBlRHk3d1E).
 
-## Project Concept Video
-[![Project Concept Video](screenshots/presentation.gif)](https://www.youtube.com/watch?v=z6U0OKGrhy0)
-
 ### Methodology 
 1. Preprocessing and Cleaning
 2. Feature Extraction
@@ -34,11 +31,6 @@ Download the Dataset needed for running the code from [here](https://drive.googl
 2. https://in.finance.yahoo.com
 3. https://www.google.com/finance
 
-
-### Useful Links 
-- **Slides**: http://www.slideshare.net/SharvilKatariya/stock-price-trend-forecasting-using-supervised-learning
-- **Video**: https://www.youtube.com/watch?v=z6U0OKGrhy0
-- **Report**: https://github.com/scorpionhiccup/StockPricePrediction/blob/master/Report.pdf
 
 ### References
 - [Recurrent Neural Networks - LSTM Models](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
